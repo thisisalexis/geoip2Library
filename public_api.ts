@@ -1,1 +1,1 @@
-export * from './src/app/modules/geoip/geoip.module';
+export * from './src/app/modules/geoip2/geoip2.module';
