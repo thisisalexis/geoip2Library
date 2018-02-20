@@ -16,4 +16,4 @@ import {Geoip2Service} from './services/geoip2/geoip2.service';
     Geoip2Service
   ]
 })
-export class GeoipModule { }
+export class Geoip2Module { }
