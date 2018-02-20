@@ -31,3 +31,6 @@ import { HeaderModule } from 'my-package-name';
 })
 export class AppModule { }
 And using its selector in a template as you would a component that is part of your application.
+
+
+This library is generated based on the Nikolas LeBlanc tutorial: https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e
